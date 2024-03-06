@@ -1,2 +1,3 @@
 # JavaScript-Coding-Interview-Questions
-Repo for practicing JavaScript &amp; it's related concepts
+Repository for practicing JavaScript coding Questions for interview purpose & also 
+for practicing it's Important concepts
