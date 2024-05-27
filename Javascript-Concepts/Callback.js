@@ -1,17 +1,17 @@
 // Asynchronus operation example of using Callback
 
-// function fetchData(callback) {
-//   setTimeout(function () {
-//     const data = "This is from fetched Data function";
-//     callback(data);
-//   }, 1000);
-// }
+/* function fetchData(callback) {
+  setTimeout(function () {
+    const data = "This is from fetched Data function";
+    callback(data);
+  }, 1000);
+}
 
-// function handleData(data) {
-//   console.log("Receieved Data", data);
-// }
+function handleData(data) {
+  console.log("Receieved Data", data);
+}
 
-// fetchData(handleData);
+fetchData(handleData); */
 
 // Synchronus  Operation example of using Callback
 
